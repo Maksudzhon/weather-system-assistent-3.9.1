@@ -275,7 +275,7 @@ const STATIC_CITY_DATA: Record<string, Record<string, CityInsight>> = {
       cuisine: [{ name: 'Sushi', description: 'Yaponiyaning ramziy taomi.' }],
       safety: 'Dunyodagi eng xavfsiz shaharlardan biri.',
       packing: ['Yurish uchun poyabzal', 'Yapon tili lug\'ati', 'Yengil kiyim'],
-      activities: ['Sibuya chorrahasi', 'Ibodatxonalar', 'Elektronika do'konlari']
+      activities: ['Sibuya chorrahasi', 'Ibodatxonalar', 'Elektronika dokonlari']
     },
     en: {
       name: 'Tokyo',
@@ -333,7 +333,7 @@ const STATIC_CITY_DATA: Record<string, Record<string, CityInsight>> = {
       fact: 'Luvr muzeyini to\'liq ko\'rish uchun bir necha oy kerak bo\'ladi.',
       images: ['paris', 'eiffel', 'louvre'],
       cuisine: [{ name: 'Croissant', description: 'Mashhur fransuz nonushtasi.' }],
-      safety: 'Sayyohlar gavjum joylarda cho'ntakkesarlardan ehtiyot bo'ling.',
+      safety: 'Sayyohlar gavjum joylarda chontakkesarlardan ehtiyot boling.' ,
       packing: ['Zamonaviy kiyim', 'Kamera', 'Qulay poyabzal'],
       activities: ['Eyfel minorasi', 'Sena daryosida sayr', 'Muzeylar']
     },
